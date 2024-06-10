@@ -41,29 +41,29 @@ def fetch_diseases():
         {"name": "Coffee_healthy", "image_path": "images (1).jpeg", "info": [
             "**Symptoms:** No visible symptoms; plant appears healthy",
             "**Best-suited Medicine:** No treatment required."]},
-        {"name": "Coffee_miner", "image_path": "D:\\FYP\\PA Hypbrid f\\Coffee_miner\\median_22_filtered.jpg", "info": [
+        {"name": "Coffee_miner", "image_path": "median_22_filtered.jpg", "info": [
             "**Symptoms:** Presence of small, yellowish, winding trails on leaves caused by larvae of the coffee leaf miner.", "**Best-suited Medicine:** Neem oil or insecticidal soap."]},
-        {"name": "Coffee_phoma", "image_path": "D:\\FYP\\PA Hypbrid f\\Coffee_phoma\\median_19_filtered.jpg", "info": [
+        {"name": "Coffee_phoma", "image_path": "median_19_filtered.jpg", "info": [
             "**Symptoms:** Circular brown spots with yellow halos on leaves, leading to leaf drop", "**Best-suited Medicine**: Fungicides containing azoxystrobin or copper."]},
-        {"name": "Coffee_rust", "image_path": "D:\\FYP\\PA Hypbrid f\\Coffee_rust\\median_139_filtered.jpg", "info": [
+        {"name": "Coffee_rust", "image_path": "median_139_filtered.jpg", "info": [
             "**Symptoms:** Yellow-orange powdery spots on leaves, leading to defoliation and reduced yield.", "**Best-suited Medicine:** Fungicides containing triadimefon or propiconazole."]},
         {"name": "Cotton_bacterial_blight", "image_path": "Bacterial_Blight_Figure_1.jpeg", "info": [
             "**Symptoms:** Water-soaked lesions on leaves, stems, and bolls, leading to wilting and death of the plant.", "**Best-suited Medicine:** Copper-based bactericides."]},
-        {"name": "Cotton_curl_virus", "image_path": "D:\\FYP\\PA Hypbrid f\\Cotton_curl_virus\\median_median_curl96_filtered.jpg", "info": [
+        {"name": "Cotton_curl_virus", "image_path": "median_median_curl96_filtered.jpg", "info": [
             "**Symptoms:** Curling and yellowing of leaves, stunted growth, and reduced yield.", "**Best-suited Medicine:** No cure; control aphid populations to prevent transmission."]},
-        {"name": "Cucumber_Angularleafspot", "image_path": "D:\\FYP\\PA Hypbrid f\\Cucumber_Angularleafspot\\median_median_+¦¦--¬+¦__filtered.jpg",
+        {"name": "Cucumber_Angularleafspot", "image_path": "median_median_+¦¦--¬+¦__filtered.jpg",
             "info": ["**Symptoms:** Angular-shaped lesions with yellow halos on leaves, leading to defoliation.", "**Best-suited Medicine:** Copper-based fungicides."]},
         {"name": "Cucumber_Anthracnose", "image_path": "download (1).jpeg", "info": [
             "**Symptoms:** Dark, sunken lesions on leaves, stems, and fruit, leading to rotting.", "**Best-suited Medicine:** Fungicides containing chlorothalonil or copper."]},
         {"name": "Cotton_fussarium_wilt", "image_path": "fusarium-wilt-of-cotto.jpg", "info": [
             "**Symptoms:** Wilting, yellowing, and eventual death of plants due to vascular infection.", "**Best-suited Medicine:** Fungicides containing thiophanate-methyl."]},
-        {"name": "Cucumber_Bacterial_Wilt", "image_path": "D:\\FYP\\PA Hypbrid f\\Cucumber_Bacterial Wilt\\median_Bacterial Wilt (27)_filtered.jpg", "info": [
+        {"name": "Cucumber_Bacterial_Wilt", "image_path": "median_Bacterial Wilt (27)_filtered.jpg", "info": [
             "**Symptoms:** Wilting of leaves, sudden collapse of plants, bacterial ooze from cut stems.", "**Best-suited Medicine:** No cure; control cucumber beetles to prevent transmission."]},
-        {"name": "Cucumber_Downymildew", "image_path": "D:\\FYP\\PA Hypbrid f\\Cucumber_Downymildew\\median_+¦¦-¦++¦2 (2)_filtered.jpg", "info": [
+        {"name": "Cucumber_Downymildew", "image_path": "median_+¦¦-¦++¦2 (2)_filtered.jpg", "info": [
             "**Symptoms:** Yellow spots on upper leaf surfaces, grayish-white mold on lower leaf surfaces.", "**Best-suited Medicine:** Fungicides containing mandipropamid or cymoxanil."]},
-        {"name": "Cucumber_healthy", "image_path": "D:\\FYP\\PA Hypbrid f\\Cucumber_healthy\\median_IMG20200629182928_filtered.jpg",
+        {"name": "Cucumber_healthy", "image_path": "median_IMG20200629182928_filtered.jpg",
             "info": ["**Symptoms:** No visible symptoms; plant appears healthy.", "**Best-suited Medicine:** No treatment required."]},
-        {"name": "Cucumber_Powderymildew", "image_path": "D:\\FYP\\PA Hypbrid f\\Cucumber_Powderymildew\\median_+¦¦-+¦¦¯¦í36_filtered.jpg",
+        {"name": "Cucumber_Powderymildew", "image_path": "median_+¦¦-+¦¦¯¦í36_filtered.jpg",
             "info": ["**Symptoms:** White, powdery spots on leaves, stems, and fruit surfaces.", "**Best-suited Medicine:** Fungicides containing sulfur or potassium bicarbonate."]},
         {"name": "Olive_Healthy", "image_path": "images.jpeg",
             "info": ["**Symptoms:** No visible symptoms; plant appears healthy.", "**Best-suited Medicine:** No treatment required."]},
