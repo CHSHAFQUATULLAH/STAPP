@@ -38,7 +38,7 @@ def fetch_news():
 
 def fetch_diseases():
     diseases = [
-        {"name": "Coffee_healthy", "image_path": "D:\\FYP\\PA Hypbrid f\\Coffee_healthy\\median_0_filtered.jpg", "info": [
+        {"name": "Coffee_healthy", "image_path": "images (1).jpeg", "info": [
             "**Symptoms:** No visible symptoms; plant appears healthy",
             "**Best-suited Medicine:** No treatment required."]},
         {"name": "Coffee_miner", "image_path": "D:\\FYP\\PA Hypbrid f\\Coffee_miner\\median_22_filtered.jpg", "info": [
