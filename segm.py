@@ -95,7 +95,7 @@ def fetch_diseases():
 
 
 def crop_disease_detection_app():
-    logo_path = 'C:\\Users\\home\\Desktop\\logo.png'
+    logo_path = 'logo.png'
 
     try:
         logo = Image.open(logo_path)
