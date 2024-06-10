@@ -47,15 +47,15 @@ def fetch_diseases():
             "**Symptoms:** Circular brown spots with yellow halos on leaves, leading to leaf drop", "**Best-suited Medicine**: Fungicides containing azoxystrobin or copper."]},
         {"name": "Coffee_rust", "image_path": "D:\\FYP\\PA Hypbrid f\\Coffee_rust\\median_139_filtered.jpg", "info": [
             "**Symptoms:** Yellow-orange powdery spots on leaves, leading to defoliation and reduced yield.", "**Best-suited Medicine:** Fungicides containing triadimefon or propiconazole."]},
-        {"name": "Cotton_bacterial_blight", "image_path": "C:\\Users\\home\\Desktop\\app\\Bacterial_Blight_Figure_1.jpeg", "info": [
+        {"name": "Cotton_bacterial_blight", "image_path": "Bacterial_Blight_Figure_1.jpeg", "info": [
             "**Symptoms:** Water-soaked lesions on leaves, stems, and bolls, leading to wilting and death of the plant.", "**Best-suited Medicine:** Copper-based bactericides."]},
         {"name": "Cotton_curl_virus", "image_path": "D:\\FYP\\PA Hypbrid f\\Cotton_curl_virus\\median_median_curl96_filtered.jpg", "info": [
             "**Symptoms:** Curling and yellowing of leaves, stunted growth, and reduced yield.", "**Best-suited Medicine:** No cure; control aphid populations to prevent transmission."]},
         {"name": "Cucumber_Angularleafspot", "image_path": "D:\\FYP\\PA Hypbrid f\\Cucumber_Angularleafspot\\median_median_+¦¦--¬+¦__filtered.jpg",
             "info": ["**Symptoms:** Angular-shaped lesions with yellow halos on leaves, leading to defoliation.", "**Best-suited Medicine:** Copper-based fungicides."]},
-        {"name": "Cucumber_Anthracnose", "image_path": "C:\\Users\\home\\Desktop\\app\\download (1).jpeg", "info": [
+        {"name": "Cucumber_Anthracnose", "image_path": "download (1).jpeg", "info": [
             "**Symptoms:** Dark, sunken lesions on leaves, stems, and fruit, leading to rotting.", "**Best-suited Medicine:** Fungicides containing chlorothalonil or copper."]},
-        {"name": "Cotton_fussarium_wilt", "image_path": "C:\\Users\\home\\Desktop\\app\\fusarium-wilt-of-cotto.jpg", "info": [
+        {"name": "Cotton_fussarium_wilt", "image_path": "fusarium-wilt-of-cotto.jpg", "info": [
             "**Symptoms:** Wilting, yellowing, and eventual death of plants due to vascular infection.", "**Best-suited Medicine:** Fungicides containing thiophanate-methyl."]},
         {"name": "Cucumber_Bacterial_Wilt", "image_path": "D:\\FYP\\PA Hypbrid f\\Cucumber_Bacterial Wilt\\median_Bacterial Wilt (27)_filtered.jpg", "info": [
             "**Symptoms:** Wilting of leaves, sudden collapse of plants, bacterial ooze from cut stems.", "**Best-suited Medicine:** No cure; control cucumber beetles to prevent transmission."]},
@@ -65,29 +65,29 @@ def fetch_diseases():
             "info": ["**Symptoms:** No visible symptoms; plant appears healthy.", "**Best-suited Medicine:** No treatment required."]},
         {"name": "Cucumber_Powderymildew", "image_path": "D:\\FYP\\PA Hypbrid f\\Cucumber_Powderymildew\\median_+¦¦-+¦¦¯¦í36_filtered.jpg",
             "info": ["**Symptoms:** White, powdery spots on leaves, stems, and fruit surfaces.", "**Best-suited Medicine:** Fungicides containing sulfur or potassium bicarbonate."]},
-        {"name": "Olive_Healthy", "image_path": "C:\\Users\\home\\Desktop\\app\\images.jpeg",
+        {"name": "Olive_Healthy", "image_path": "images.jpeg",
             "info": ["**Symptoms:** No visible symptoms; plant appears healthy.", "**Best-suited Medicine:** No treatment required."]},
-        {"name": "Tomato_healthy", "image_path": "C:\\Users\\home\\Desktop\\app\\360_F_423006610_ZmVNWp8RYRi7ZqOyUKSc5AJnnFIFy7SN.jpg",
+        {"name": "Tomato_healthy", "image_path": "360_F_423006610_ZmVNWp8RYRi7ZqOyUKSc5AJnnFIFy7SN.jpg",
             "info": ["**Symptoms:** No visible symptoms; plant appears healthy.", "**Best-suited Medicine:** No treatment required."]},
-        {"name": "Olive_peacockspot", "image_path": "C:\\Users\\home\\Desktop\\app\\images (1).jpeg", "info": [
+        {"name": "Olive_peacockspot", "image_path": "images (1).jpeg", "info": [
             "**Symptoms:** Circular, dark brown spots with a lighter center on leaves, leading to defoliation.", "**Best-suited Medicine:** Fungicides containing copper or mancozeb."]},
-        {"name": "Tomato_late_blight", "image_path": "C:\\Users\\home\\Desktop\\app\\images (2).jpeg",
+        {"name": "Tomato_late_blight", "image_path": "images (2).jpeg",
             "info": ["**Symptoms:** Dark, water-soaked lesions on leaves, stems, and fruit, leading to rapid decay.", "**Best-suited Medicine:** Fungicides containing chlorothalonil or mancozeb."]},
-        {"name": "Tomato_septoria_leaf_spot", "image_path": "C:\\Users\\home\\Desktop\\app\\images (3).jpeg",
+        {"name": "Tomato_septoria_leaf_spot", "image_path": "images (3).jpeg",
             "info": ["**Symptoms:** Small, dark spots with light centers on leaves, leading to yellowing and defoliation.", "**Best-suited Medicine:** Fungicides containing chlorothalonil or copper."]},
-        {"name": "Tomato_spider_mites", "image_path": "C:\\Users\\home\\Desktop\\app\\images (4).jpeg", "info": [
+        {"name": "Tomato_spider_mites", "image_path": "images (4).jpeg", "info": [
             "**Symptoms:** Yellow stippling on leaves, webbing, and eventual leaf discoloration and drop.", "**Best-suited Medicine:** Insecticides containing abamectin or pyrethrins."]},
-        {"name": "Wheat_brown_rust", "image_path": "C:\\Users\\home\\Desktop\\app\\images (5).jpeg", "info": [
+        {"name": "Wheat_brown_rust", "image_path": "images (5).jpeg", "info": [
             "**Symptoms:** Brownish-orange pustules on leaves, stems, and spikes, leading to reduced yield.", "**Best-suited Medicine:** Fungicides containing propiconazole or tebuconazole."]},
-        {"name": "Wheat_healthy", "image_path": "C:\\Users\\home\\Desktop\\app\\images (6).jpeg", "info": [
+        {"name": "Wheat_healthy", "image_path": "images (6).jpeg", "info": [
             "**Symptoms:** No visible symptoms; plant appears healthy.", "**Best-suited Medicine:** No treatment required."]},
-        {"name": "Tomato_bacterial_spot", "image_path": "C:\\Users\\home\\Desktop\\app\\images (7).jpeg",
+        {"name": "Tomato_bacterial_spot", "image_path": "images (7).jpeg",
             "info": ["**Symptoms:** Small, water-soaked lesions with yellow halos on leaves and fruit, leading to defoliation and fruit rot.", "**Best-suited Medicine:** Copper-based bactericides."]},
-        {"name": "Tomato_leaf_mold", "image_path": "C:\\Users\\home\\Desktop\\app\\images (8).jpeg",
+        {"name": "Tomato_leaf_mold", "image_path": "images (8).jpeg",
             "info": ["**Symptoms:** Yellowish patches on upper leaf surfaces, grayish-white mold on lower leaf surfaces.", "**Best-suited Medicine:** Fungicides containing chlorothalonil or mancozeb."]},
-        {"name": "Cotton_healthy", "image_path": "C:\\Users\\home\\Desktop\\app\\original.jpg", "info": [
+        {"name": "Cotton_healthy", "image_path": "original.jpg", "info": [
             "**Symptoms:** No visible symptoms; plant appears healthy.", "**Best-suited Medicine:** No treatment required."]},
-        {"name": "Cucumber_Blight", "image_path": "C:\\Users\\home\\Desktop\\app\\cucumber-blight.jpg", "info": [
+        {"name": "Cucumber_Blight", "image_path": "cucumber-blight.jpg", "info": [
             "**Symptoms:** Dark, water-soaked lesions on leaves, stems, and fruit, leading to wilting and death of plants.", "**Best-suited Medicine:** Fungicides containing chlorothalonil or copper."]},
         # Add more diseases with their image paths and information here
     ]
