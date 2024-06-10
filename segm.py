@@ -134,7 +134,7 @@ def crop_disease_detection_app():
         st.write("Crop diseases can devastate entire harvests if not detected and treated early. However, farmers face challenges in identifying diseases accurately and promptly, leading to significant economic losses.")
 
         img2 = Image.open(
-            'C:\\Users\\home\\Desktop\\app\\640eb1bd2e494865ac01beb0_AI in Ag-p-800.jpg')
+            '640eb1bd2e494865ac01beb0_AI in Ag-p-800.jpg')
         st.image(img2, use_column_width=True)
 
         st.subheader("Why Choose Automated Crop Disease Detection(ACDD)")
