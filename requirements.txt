@@ -1,13 +1,11 @@
 feedparser==6.0.11
-numpy==1.26.4
+
 opencv_python==4.8.1.78
 
-streamlit==1.35.0
-streamlit-option-menu==0.3.13
+
 Pillow==10.3.0
 firebase-admin==6.5.0
 streamlit-lottie==0.0.5
-opencv-python==4.10.0.82
 numpy==1.26.4
 torch
 torchvision
@@ -18,8 +16,6 @@ dill
 
 
 opencv_python_headless==4.8.0.74
-Pillow==10.3.0
+
 streamlit==1.33.0
-torch==2.3.0
-torchvision==0.18.0
-ultralytics==8.2.25
+
