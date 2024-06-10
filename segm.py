@@ -260,10 +260,10 @@ def crop_disease_detection_app():
         """)
     elif selected_option == "Disease Diagnosis":
 
-        BASE_DIR = r'C:\Users\home\Desktop\models'
+        BASE_DIR = r'models/'
         MODEL_NAME = 'seg.pt'
         MODEL_PATH = os.path.join(BASE_DIR, MODEL_NAME)
-        LABELS_PATH = r'C:\Users\home\Desktop\models\labels.txt'
+        LABELS_PATH = r'models/labels.txt'
 
         def load_yolo_model(model_path):
             try:
